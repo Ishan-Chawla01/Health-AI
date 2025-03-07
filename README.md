@@ -49,8 +49,10 @@ HealthAssistant is an AI-powered tool for monitoring both physical and mental we
     - Other cells are for data pre-processing if the need persists upon execution of the aforementioned cells.
 
 ## Basic UI Design
-
 You can view the basic UI design in the [HealthAssistant.pdf](./HealthAssistant.pdf) file.
+
+## Poster
+You can view the project poster in the [HealthAssistant_Poster.pdf](./HealthAssistant_Poster.pdf) file.
 
 ## License
 
