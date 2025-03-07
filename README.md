@@ -48,6 +48,10 @@ HealthAssistant is an AI-powered tool for monitoring both physical and mental we
     - For hospitalization prediction, run the cell with the comment heading `# Hospitalization prediction program` and the cell below it.
     - Other cells are for data pre-processing if the need persists upon execution of the aforementioned cells.
 
+## Basic UI Design
+
+You can view the basic UI design in the [HealthAssistant.pdf](./HealthAssistant.pdf) file.
+
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
