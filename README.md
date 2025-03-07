@@ -37,18 +37,16 @@ HealthAssistant is an AI-powered tool for monitoring both physical and mental we
     ```
 
 3. **Install required dependencies**:
+    1. Download the dataset (file could not be uploaded due to size being larger than 25 MB) from [this Kaggle link](https://www.kaggle.com/datasets/suchintikasarkar/sentiment-analysis-for-mental-health).
+    2. Install libraries such as pandas, numpy, and scikit-learn:
     ```sh
-    pip install -r requirements.txt
+    pip install pandas numpy scikit-learn
     ```
 
 4. **Run the application**:
     ```sh
     python main.py
     ```
-
-## Contributing
-
-We welcome contributions! Please see our [CONTRIBUTING.md](CONTRIBUTING.md) for more details.
 
 ## License
 
