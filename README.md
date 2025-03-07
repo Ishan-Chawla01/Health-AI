@@ -43,10 +43,10 @@ HealthAssistant is an AI-powered tool for monitoring both physical and mental we
     pip install pandas numpy scikit-learn
     ```
 
-4. **Run the application**:
-    ```sh
-    python main.py
-    ```
+4. **Run the cells**:
+    - For sentiment analysis, run the cell with the comment heading `# Function to predict the state based on user input` and the cell above it.
+    - For hospitalization prediction, run the cell with the comment heading `# Hospitalization prediction program` and the cell below it.
+    - Other cells are for data pre-processing if the need persists upon execution of the aforementioned cells.
 
 ## License
 
