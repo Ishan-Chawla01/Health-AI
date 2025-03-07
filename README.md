@@ -52,7 +52,7 @@ HealthAssistant is an AI-powered tool for monitoring both physical and mental we
 You can view the basic UI design in the [HealthAssistant.pdf](./HealthAssistant.pdf) file.
 
 ## Poster
-You can view the project poster in the [HealthAssistant_Poster.pdf](./HealthAssistant_Poster.pdf) file.
+You can view the project poster in the [HealthAssistant_Poster.pdf](./HealthAssistantPoster.pdf) file.
 
 ## License
 
